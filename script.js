@@ -35,4 +35,10 @@ console.log("Horas por semana:", horasSemana);
 
 
 
-console.log("aluno", nome,"- idade", idade,"- horas por semana", horasSemana)
+console.log("aluno", nome,"- idade", idade,"- horas por semana", horasSemana);
+
+console.error("Essa é uma mensagem de erro");
+console.warn("Essa é uma mensagem de alerta");
+console.info("Essa é uma mensagem informativa");
+console.debug("Essa é uma mensagem de debug");
+
